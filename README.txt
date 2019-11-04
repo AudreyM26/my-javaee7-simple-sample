@@ -1,1 +1,1 @@
-un autre contenu autre alternatif
+un autre contenu alternatif
