@@ -1,1 +1,1 @@
-un autre contenu alternatif
+hotfix test un autre contenu alternatif
